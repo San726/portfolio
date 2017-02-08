@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="340d4d71-df90-4db7-a0a8-a0e3fbbc24e8" name="shahnewaz" url="http://shahnewaz.azurewebsites.net">
+        <fileTransfer host="waws-prod-dm1-007.ftp.azurewebsites.windows.net" port="21" password="dfc9dfd9dfefdfcddfc4dfcddfebdfc7dfe0dfcfdfc1dfc7dff0dfcfdf98dfd9dfc3dfecdf93dff2dfd3df9cdf9adfdcdfe6dfdbdfe6dff3dffbdffbdfc4dfc8df9adfcedfe8dfc0dfebdf99dfe1dfc6dfc0dfc0dfcfdfe6dfe9dfc2dffadfd2dfe7dfc7dfe4dfeddfd0dfdbdfdbdfd3dfefdfdfdf9adfc1" username="shahnewaz\$shahnewaz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

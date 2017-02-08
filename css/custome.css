@@ -1,0 +1,95 @@
+body{
+    background-image: url("../image/BackGround.png");
+    background-color: #e3e3e3;
+    font-family: 'Poiret One', cursive;
+}
+.navfont{
+    font-size: 25px;
+    /*background-color: #1b6d85;*/
+    /*margin-left: 70px;*/
+    /*float: left;*/
+    letter-spacing: 2px;
+}
+
+.navbar-custome {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+iframe{
+    width: 870px ;
+    height: 800px;
+}
+/*a:link    {color:white; background-color:transparent; text-decoration:none}*/
+/*a:visited {color:white; background-color:transparent;}*/
+/*a:hover   {color: rgba(145, 145, 145, 0.86); background-color:transparent;}*/
+/*a:active  {color:black; background-color:transparent;}*/
+
+@media (max-width: 1200px) {
+    .navbar-custome {
+        float: left;
+        background-color: lightblue;
+    }
+}
+
+@media (device-width: 800px) {
+    iframe{
+        width: 770px;
+        height: 800px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-custome {
+        float: left;
+        background-color: transparent;
+    }
+}
+
+@media (max-width: 800px) {
+    iframe{
+        width: 568px ;
+        height: 800px;
+    }
+}
+@media (device-width: 435px) {
+    iframe{
+        width: 400px ;
+        height: 800px;
+    }
+}
+
+@media (max-width: 414px) {
+    iframe{
+        width: 360px ;
+        height: 600px;
+    }
+}
+
+@media (max-width: 360px) {
+    iframe{
+        width: 300px ;
+        height: 600px;
+    }
+}
+@media (max-width: 375px) {
+    iframe{
+        width: 330px ;
+        height: 600px;
+    }
+}
+@media (max-width: 320px) {
+    iframe{
+        width: 280px ;
+        height: 600px;
+    }
+}
+
+
+p{
+    color: white;
+}
+
+p:visited {color:white; background-color:transparent;}
+p:hover   {color: rgba(145, 145, 145, 0.86); background-color:transparent;}
+p:active  {color:white; background-color:transparent;}
